@@ -33,7 +33,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=bouhadi-m3d&theme=tokyonight" height="180em" />
+  <!-- 🔥 Streak Stats -->
+  <img align="center" width="400" src="https://streak-stats.demolab.com/?user=bouhadi-m3d&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&ring=FF0000&border=000000&currStreakLabel=FF0000" />
 </p>
 
 ---
