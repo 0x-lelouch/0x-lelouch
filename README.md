@@ -1,12 +1,13 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
+</p>
+
 <!-- 🎬 Intro GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </p>
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
-</p>
 
 ---
 
