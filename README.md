@@ -23,8 +23,7 @@
 ---
 
 Feel free to contact me 😋  
-<br><br>
-
+<br>
 <a href="https://t.me/med69_py" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%40med69__py-28a8ea">
 </a>&nbsp;&nbsp;
