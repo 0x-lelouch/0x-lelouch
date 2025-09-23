@@ -1,9 +1,9 @@
-<!-- 🔥 Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile+Views&color=blue&style=flat" alt="bouhadi-m3d" />
+<!-- 🎬 Intro GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </p>
 
-<!-- 🎨 Header Banner (replace the img link with your own custom banner) -->
+<!-- 🎨 Header Banner (replace with your own custom banner later if you want) -->
 <p align="center">
   <img src="https://i.imgur.com/zYxDCQT.png" alt="header banner" width="100%" />
 </p>
@@ -62,15 +62,15 @@
 
 ### 🔗 Connect With Me  
 <p align="center">
-  <a href="https://codepen.io/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-  <a href="https://dev.to/chrollom3d"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://twitter.com/chrollom3d"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://linkedin.com/in/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/26265681"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://instagram.com/med69.py"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://medium.com/@bouhadimed69"><img src="https://skillicons.dev/icons?i=medium" /></a>
-  <a href="https://www.hackerrank.com/medbouhadi69"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
-  <a href="https://www.leetcode.com/medbouhadi"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+  <a href="https://codepen.io/mohamed-bouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://dev.to/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://twitter.com/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/mohamed-bouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/26265681" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://instagram.com/med69.py" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://medium.com/@bouhadimed69" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.hackerrank.com/medbouhadi69" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://www.leetcode.com/medbouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
 ---
