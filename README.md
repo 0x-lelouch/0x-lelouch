@@ -1,3 +1,8 @@
+<!-- 🔥 Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile+Views&color=blue&style=flat" alt="bouhadi-m3d" />
+</p>
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
@@ -11,21 +16,6 @@
 - 💡 Curious about **Linux, open-source, and low-level coding**  
 - 🎯 Goal: Contribute more to **open-source projects**  
 - ⚡ Fun fact: I probably debug more than I sleep 😅  
-
----
-
-### 🔗 Connect With Me  
-<p align="center">
-  <a href="https://codepen.io/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-  <a href="https://dev.to/chrollom3d"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://twitter.com/chrollom3d"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://linkedin.com/in/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/26265681"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://instagram.com/med69.py"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://medium.com/@bouhadimed69"><img src="https://skillicons.dev/icons?i=medium" /></a>
-  <a href="https://www.hackerrank.com/medbouhadi69"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
-  <a href="https://www.leetcode.com/medbouhadi"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
-</p>
 
 ---
 
@@ -55,6 +45,15 @@
 
 ---
 
+### 🔗 Connect With Me  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile+Views&color=blue&style=flat" />
+  <a href="https://codepen.io/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://dev.to/chrollom3d"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://twitter.com/chrollom3d"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/26265681"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://instagram.com/med69.py"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://medium.com/@bouhadimed69"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.hackerrank.com/medbouhadi69"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://www.leetcode.com/medbouhadi"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
