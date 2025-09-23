@@ -1,58 +1,30 @@
-<div align="center">
-  <h1>
-    Hi there, I'm Chrollo!
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
-  </h1>
+<h1 align="center">Hi 👋, I'm Chrollo</h1>
+<h3 align="center">A passionate coder from Morocco</h3>
 
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile%20views&color=0e75b6&style=flat" alt="bouhadi-m3d" /> </p>
 
-  <p>
-    <em>🚀 A Passionate Coder.</em>
-  </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouhadi-m3d" alt="bouhadi-m3d" /></a> </p>
 
-  <p>
-    <a href="https://github.com/bouhadi-m3d">
-      <img src="https://img.shields.io/github/followers/bouhadi-m3d?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/bouhadi-m3d">
-      <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&color=brightgreen" />
-    </a>
-  </p>
-</div>
+- 🔭 I’m currently on my portfolio **m3dbouhadi**
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+- 🌱 I’m currently learning **C**
 
-<!--START_SECTION:waka-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/mohamed-bouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed-bouhadi" height="30" width="40" /></a>
+<a href="https://dev.to/chrollom3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chrollom3d" height="30" width="40" /></a>
+<a href="https://twitter.com/chrollom3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrollom3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-bouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bouhadi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26265681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26265681" height="30" width="40" /></a>
+<a href="https://instagram.com/med69.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med69.py" height="30" width="40" /></a>
+<a href="https://medium.com/@bouhadimed69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bouhadimed69" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/medbouhadi69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="medbouhadi69" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/medbouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medbouhadi" height="30" width="40" /></a>
+</p>
 
-```txt
-Markdown              8 hrs 16 mins   🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.96 %
-Rust                  8 hrs 15 mins   🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.93 %
-Python                4 hrs 5 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.87 %
-PHP                   4 hrs 1 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.67 %
-text                  2 hrs 23 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.32 %
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouhadi-m3d&show_icons=true&locale=en&layout=compact" alt="bouhadi-m3d" /></p>
 
-Feel free to contact me 😋  
-<br>
-
-<a href="https://t.me/med69_py" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-%40med69__py-28a8ea">
-</a>&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/med69.py/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40med69.py-E4405F">
-</a>&nbsp;&nbsp;
-
-<a href="https://x.com/ChrolloM3d" target="_blank">
-  <img src="https://img.shields.io/badge/X-%40ChrolloM3d-black">
-</a>&nbsp;&nbsp;
-
-<a href="mailto:medbouhadi666@gmail.com">
-  <img src="https://img.shields.io/badge/Email-medbouhadi666%40gmail.com-orange">
-</a>&nbsp;&nbsp;
-
-<a href="https://discord.com/users/1323812391129055284" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-chrollom3d-5865F2">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&show_icons=true&locale=en" alt="bouhadi-m3d" /></p>
