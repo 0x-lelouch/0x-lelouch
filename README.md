@@ -53,3 +53,10 @@
   <a href="https://www.hackerrank.com/medbouhadi69"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
   <a href="https://www.leetcode.com/medbouhadi"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
+
+---
+
+<!-- 🌊 Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
+</p>
