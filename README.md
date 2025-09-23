@@ -12,38 +12,35 @@
 
   <p>
     <a href="https://github.com/bouhadi-m3d">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+      <img src="https://img.shields.io/github/followers/bouhadi-m3d?label=Follow&style=social" />
     </a>
     <a href="https://github.com/bouhadi-m3d">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+      <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&color=brightgreen" />
     </a>
   </p>
 </div>
 
-
-
-
+---
 
 Feel free to contact me 😋  
 <br><br>
 
-<a href="https://t.me/med69_py" target="_blank" style="margin-right: 8px;">
+<a href="https://t.me/med69_py" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%40med69__py-28a8ea">
-</a>
+</a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/med69.py/" target="_blank" style="margin-right: 8px;">
+<a href="https://www.instagram.com/med69.py/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%40med69.py-E4405F">
-</a>
+</a>&nbsp;&nbsp;
 
-<a href="https://x.com/ChrolloM3d" target="_blank" style="margin-right: 8px;">
+<a href="https://x.com/ChrolloM3d" target="_blank">
   <img src="https://img.shields.io/badge/X-%40ChrolloM3d-black">
-</a>
+</a>&nbsp;&nbsp;
 
-<a href="mailto:medbouhadi666@gmail.com" style="margin-right: 8px;">
+<a href="mailto:medbouhadi666@gmail.com">
   <img src="https://img.shields.io/badge/Email-medbouhadi666%40gmail.com-orange">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://discord.com/users/1323812391129055284" target="_blank">
   <img src="https://img.shields.io/badge/Discord-chrollom3d-5865F2">
 </a>
-
