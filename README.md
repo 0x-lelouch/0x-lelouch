@@ -1,24 +1,31 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
-</p>
-
 <!-- 🎬 Intro GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </p>
 
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
+</p>
 
----
+</p>
 
-### 🌟 About Me  
-- 🔭 Currently working on my portfolio **`m3dbouhadi`**  
-- 🌱 Learning **C programming & problem-solving**  
-- 💡 Curious about **Linux, open-source, and low-level coding**  
-- 🎯 Goal: Contribute more to **open-source projects**  
-- ⚡ Fun fact: I probably debug more than I sleep 😅  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
----
+```javascript
+const thai = {
+  pronouns: "she",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Ruby", "Python", "Java"],
+  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "AfroPython",
+    speaker: "Latinity",
+    mentor: "EducaTRANSforma"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+};
+```
 
 ### 🛠️ Languages & Tools  
 <p align="center">
