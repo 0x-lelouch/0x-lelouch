@@ -1,13 +1,13 @@
 <div align="center">
   <h1>
-    Hi there, I'm Rao Hai!
+    Hi there, I'm Chrollo!
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
+    <em>🚀 Passionate Coder.</em>
   </p>
 
   <p>
