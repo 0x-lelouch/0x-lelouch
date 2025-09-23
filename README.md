@@ -3,6 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile+Views&color=blue&style=flat" alt="bouhadi-m3d" />
 </p>
 
+<!-- 🎨 Header Banner (replace the img link with your own custom banner) -->
+<p align="center">
+  <img src="https://i.imgur.com/zYxDCQT.png" alt="header banner" width="100%" />
+</p>
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
@@ -34,9 +39,23 @@
 
 ---
 
+### 🔥 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bouhadi-m3d&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ### 🏆 GitHub Achievements  
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=bouhadi-m3d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
+### 💡 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
