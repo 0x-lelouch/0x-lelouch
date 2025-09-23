@@ -1,30 +1,60 @@
-<h1 align="center">Hi 👋, I'm Chrollo</h1>
-<h3 align="center">A passionate coder from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile%20views&color=0e75b6&style=flat" alt="bouhadi-m3d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouhadi-m3d" alt="bouhadi-m3d" /></a> </p>
-
-- 🔭 I’m currently on my portfolio **m3dbouhadi**
-
-- 🌱 I’m currently learning **C**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mohamed-bouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed-bouhadi" height="30" width="40" /></a>
-<a href="https://dev.to/chrollom3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chrollom3d" height="30" width="40" /></a>
-<a href="https://twitter.com/chrollom3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrollom3d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-bouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bouhadi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26265681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26265681" height="30" width="40" /></a>
-<a href="https://instagram.com/med69.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med69.py" height="30" width="40" /></a>
-<a href="https://medium.com/@bouhadimed69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bouhadimed69" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/medbouhadi69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="medbouhadi69" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/medbouhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medbouhadi" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chrollo!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouhadi-m3d&show_icons=true&locale=en&layout=compact" alt="bouhadi-m3d" /></p>
+### 🌟 About Me  
+- 🔭 Currently working on my portfolio **`m3dbouhadi`**  
+- 🌱 Learning **C programming & problem-solving**  
+- 💡 Curious about **Linux, open-source, and low-level coding**  
+- 🎯 Goal: Contribute more to **open-source projects**  
+- ⚡ Fun fact: I probably debug more than I sleep 😅  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&show_icons=true&locale=en" alt="bouhadi-m3d" /></p>
+---
+
+### 🔗 Connect With Me  
+<p align="center">
+  <a href="https://codepen.io/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://dev.to/chrollom3d"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://twitter.com/chrollom3d"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/mohamed-bouhadi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/26265681"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://instagram.com/med69.py"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://medium.com/@bouhadimed69"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.hackerrank.com/medbouhadi69"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://www.leetcode.com/medbouhadi"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bouhadi-m3d&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bouhadi-m3d&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouhadi-m3d&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=bouhadi-m3d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bouhadi-m3d&label=Profile+Views&color=blue&style=flat" />
+</p>
