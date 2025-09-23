@@ -11,10 +11,10 @@
   </p>
 
   <p>
-    <a href="https://github.com/RaoHai">
+    <a href="https://github.com/bouhadi-m3d">
       <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
     </a>
-    <a href="https://github.com/RaoHai">
+    <a href="https://github.com/bouhadi-m3d">
       <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
     </a>
   </p>
