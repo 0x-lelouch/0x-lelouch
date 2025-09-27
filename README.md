@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const 0x-lelouch = {
+const lelouch = {
   pronouns: "he",
   code: ["C", "C++", "HTML", "CSS"],
   tools: ["Git", "Linux", "VSCode"],
@@ -45,6 +45,11 @@ const 0x-lelouch = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x-lelouch&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+⏳ Coding Activity (WakaTime)
+<!--START_SECTION:waka--> <!--END_SECTION:waka--> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-lelouch&theme=tokyonight&hide_border=true" height="180em" /> </p>
 
 ---
 
