@@ -76,5 +76,5 @@ const 0x-lelouch = {
 
 <!-- 🌊 Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=100&section=footer"/>
 </p>
