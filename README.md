@@ -69,7 +69,7 @@ const lelouch = {
   <a href="https://twitter.com/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://linkedin.com/in/mohamed-bouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/26265681" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://instagram.com/med69.py" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/0xlelouch" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
