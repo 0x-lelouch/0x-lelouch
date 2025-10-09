@@ -66,7 +66,7 @@ const lelouch = {
 <p align="center">
   <a href="https://codepen.io/0xlelouch" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
   <a href="https://dev.to/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://twitter.com/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://x.com/0xlelouch69" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://linkedin.com/in/mohamed-bouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/26265681" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://instagram.com/0xlelouch" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
