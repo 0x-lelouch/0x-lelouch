@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 ```javascript
-const lelouch = {
+const 0xm3d = {
   pronouns: "he",
   code: ["C", "C++", "HTML", "CSS"],
   tools: ["Git", "Linux", "VSCode"],
@@ -36,22 +36,22 @@ const lelouch = {
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-lelouch&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-lelouch&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xm3d&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xm3d&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
 
 ### 🔥 Contribution Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x-lelouch&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xm3d&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements  
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=0x-lelouch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xm3d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
