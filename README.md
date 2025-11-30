@@ -1,4 +1,3 @@
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+0xm3d!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
@@ -65,12 +64,12 @@ const med = {
 
 ### 🔗 Connect With Me  
 <p align="center">
-  <a href="https://codepen.io/0xlelouch" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-  <a href="https://dev.to/chrollom3d" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://x.com/0xlelouch69" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://linkedin.com/in/mohamed-bouhadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/26265681" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://instagram.com/0xlelouch" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://codepen.io/0xm3d" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://dev.to/0xm3d" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://x.com/0xm3d" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-bouhadi-72438b318" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/26265681/0xm3d" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://instagram.com/0xm3d" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
