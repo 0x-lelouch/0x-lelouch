@@ -44,6 +44,13 @@ const med = {
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xm3d/0xm3d/gh-pages/dist/github-contribution-grid-snake-dark.svg" alt="snake">
+</p>
+
+---
+
+
 ### 🔥 Contribution Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xm3d&theme=tokyo-night&hide_border=true" />
