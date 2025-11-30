@@ -1,3 +1,6 @@
+
+
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+0xm3d!;Passionate+Coder+from+Morocco;Always+learning+%26+building" alt="Typing SVG" />
@@ -44,8 +47,9 @@ const med = {
 
 ---
 
+<h2 align="center">🚀 Coding Streak Tracker </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xm3d/0xm3d/gh-pages/dist/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://streak-stats.demolab.com?user=0xm3d&theme=tokyonight" />
 </p>
 
 ---
@@ -88,3 +92,4 @@ const med = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=100&section=footer"/>
 </p>
+
