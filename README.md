@@ -8,6 +8,8 @@
  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </p>
 
+<!-- Visitor Counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xm3d&style=for-the-badge&color=blue" /> </p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 ```javascript
