@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 ```javascript
-const Oxmed = {
+const med = {
   pronouns: "he",
   code: ["C", "C++", "HTML", "CSS"],
   tools: ["Git", "Linux", "VSCode"],
